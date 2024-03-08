@@ -1,0 +1,54 @@
+.navbar{
+    background-color: #1DE9B6 !important;
+
+}
+.nav-item{
+    font-weight: bold;
+}
+h2{
+    margin: 20px;
+    text-align: center;
+    font-weight: bold;
+    box-shadow: 5px 5px 5px 5px grey;
+}
+
+.mainCard{
+    display: flex;
+    flex-direction: row !important;
+    justify-content: space-around;
+}
+
+.card-img-top{
+    height: 170px;
+    width: 215px;
+}
+
+
+.card1,.card2,.card3,.card4{
+    width:20% !important ;
+    height: 370px;
+    box-shadow: 2px 4px 5px grey;
+    margin: 10px;
+    align-items: center !important;
+   
+}
+
+.card-img-top{
+    height: 250px;
+    width: 100%;
+}
+.col{
+    height: 500px;
+    width: 100%;
+    justify-content: center;
+}
+
+.card{
+    height: 400px;
+    width: 250px;
+    margin: 20px;
+    box-shadow: 2px 4px 5px grey;
+}
+.btn-primary{
+    width: 100%;
+}
